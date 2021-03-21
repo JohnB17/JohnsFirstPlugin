@@ -2,3 +2,9 @@ name: JohnsFirstPlugin
 version: 1.0
 main: com.johnb.johnsfirstplugin.JohnsFirstPlugin
 author: JohnB
+api-version: 1.16
+commands:
+  kit:
+    description: Gives you the kit
+    usage: /kit
+    permission: johnsfirstplugin.kit
