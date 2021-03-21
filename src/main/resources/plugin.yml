@@ -1,0 +1,4 @@
+name: JohnsFirstPlugin
+version: 1.0
+main: com.johnb.johnsfirstplugin.JohnsFirstPlugin
+author: JohnB
