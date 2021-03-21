@@ -1,5 +1,5 @@
 name: JohnsFirstPlugin
-version: 1.0
+version: 1.1
 main: com.johnb.johnsfirstplugin.JohnsFirstPlugin
 author: JohnB
 api-version: 1.16

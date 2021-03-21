@@ -7,6 +7,7 @@ public class JohnsFirstPlugin extends JavaPlugin {
     public void onEnable() {
         getLogger().info("JohnsFirstPlugin is enabled!");
         this.getCommand("kit").setExecutor(new CommandKit());
+        getServer().getPluginManager().registerEvents(new MyListener(), this);
     }
     @Override
     public void onDisable() {
